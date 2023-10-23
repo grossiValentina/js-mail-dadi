@@ -12,6 +12,4 @@ stampa un messaggio appropriato sull’esito del controllo.
       (elaboro il messaggio con scritto "email trovata! puoi accedere") 
 **ELSE** 
       (elaboro il messaggio con scritto "email non trovata, riprova!)
-
-#####Otput:
-1. Scrivo i messaggi elaborati in pagina 
+ 

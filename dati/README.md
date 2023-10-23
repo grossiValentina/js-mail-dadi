@@ -10,14 +10,9 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 
 ####Svolgimento:
-1. inizio un ciclo _For_
 **IF** il numero generato del giocatore è > rispetto a quello generato dal computer
         ( il giocatore ha vinto)
 **ELSE**
         (il giocatore ha perso)
-2. Elaboro il messaggio
-3. chiudo il ciclo _For_
+2. Elaboro il messaggio nella console
 
-
-####Otput:
-1. Stampo il messaggio in pagina

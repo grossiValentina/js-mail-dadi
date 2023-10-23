@@ -21,6 +21,6 @@ console.log(result);
 const resultElem = document.querySelector(".message");
 console.log(resultElem);
 
-// Otput
+
 
 
